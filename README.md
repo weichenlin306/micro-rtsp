@@ -7,7 +7,7 @@
 - https://github.com/geeksville/Micro-RTSP
 
 ### License
-- 依各程式碼各自之原License
+- 依各程式碼各自之原License (MIT License)
 
 ### 程式修飾與增強(使用Arduino IDE 2.x.x)
 - 程式名稱: ESP32-CAM Demo.ino
