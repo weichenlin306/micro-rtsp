@@ -1,7 +1,7 @@
 # Micro-RTSP 可執行碼選粹
 
 ### 程式碼來源
-- https://github.com/rzeldent/esp32cam-rtsp 經編譯後於 .pio 目錄下之目錄
+- https://github.com/rzeldent/esp32cam-rtsp 經編譯後於 .pio 目錄下之Micro-RTSP目錄
 
 ### 原始碼
 - https://github.com/geeksville/Micro-RTSP
