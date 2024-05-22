@@ -17,6 +17,6 @@
 
 ### 用法
 - 將Micro-RTSP整個目錄複製到Arduino IDE安裝目錄下的libraries目錄下
-- 將主程式Micro-RTSP Demo.ino更名為自己喜歡的檔名，與wifikeys.h一起複製到同名新Arduino專案目錄下
+- 將主程式ESP32-CAM Demo.ino更名為自己喜歡的檔名，與wifikeys.h一起複製到同名新Arduino專案目錄下
 - 修改前述程式相關設定；wifikeys.h填入WiFi帳號密碼
 - 以VLC測試執行狀態，須調整前述幾個參數至不出現"error sending udp packet"
