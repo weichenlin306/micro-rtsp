@@ -73,8 +73,9 @@ void setup()
 
   // Supported boards: esp32cam_config, esp32cam_aithinker_config, esp32cam_ttgo_t_config
   camera_config_t config = esp32cam_aithinker_config;
-  //Possible frame sizes: UXGA(1600x1200),SXGA(1280x1024),XGA(1024x768),SVGA(800x600),VGA(640x480),CIF(400x296),QVGA(320x240),HQVGA(240x176),QQVGA(160x120)
+  // Possible frame sizes: UXGA(1600x1200),SXGA(1280x1024),XGA(1024x768),SVGA(800x600),VGA(640x480),CIF(400x296),QVGA(320x240),HQVGA(240x176),QQVGA(160x120)
   config.frame_size = FRAMESIZE_VGA;
+  // Clock frequency: 10MHz-20MHz
   config.xclk_freq_hz = 15000000;
   cam.init(config);
 
