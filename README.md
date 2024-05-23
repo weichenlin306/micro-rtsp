@@ -20,6 +20,3 @@
 - 將主程式ESP32-CAM Demo.ino更名為自己喜歡的檔名，與wifikeys.h一起複製到同名新Arduino專案目錄下
 - 修改前述程式相關設定；wifikeys.h填入WiFi帳號密碼
 - 以VLC測試執行狀態，須調整前述幾個參數至不出現"error sending udp packet"
-
-![Serial monitor messages in Arduino IDE]https://github.com/weichenlin306/micro-rtsp/serial-monitor.png
-![VLC中的RTSP串流]https://github.com/weichenlin306/micro-rtsp/rtsp-image-in-vlc.png
