@@ -21,5 +21,4 @@
 - 修改前述程式相關設定；wifikeys.h填入WiFi帳號密碼
 - 以VLC測試執行狀態，須調整前述幾個參數至不出現"error sending udp packet"
 
-![Serial monitor messages in Arduino IDE](https://github.com/weichenlin306/micro-rtsp/assets/133075659/c234700a-0e69-4f38-93a0-153de66970f4)
-![RTSP screen in VLC](https://github.com/weichenlin306/micro-rtsp/assets/133075659/7beb3aaf-da99-40c3-81a4-0bc1bb9795aa)
+![Serial monitor messages in Arduino IDE](https://github.com/weichenlin306/micro-rtsp/assets/133075659/c234700a-0e69-4f38-93a0-153de66970f4) ![RTSP screen in VLC](https://github.com/weichenlin306/micro-rtsp/assets/133075659/7beb3aaf-da99-40c3-81a4-0bc1bb9795aa)
